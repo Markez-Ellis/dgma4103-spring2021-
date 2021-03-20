@@ -1,0 +1,35 @@
+body {
+ font-family: Garamond;
+ text-align: center;
+ background-color: #efc050
+}
+
+div {
+  border:3px solid"
+   class="topnav"
+    width="500"
+}
+
+table {
+  border:5px solid
+#936b0e;margin-left:auto;
+  margin-right:auto;
+}
+
+h1 {
+font-size: 50px;
+text-decoration: underline;
+}
+
+h2 {
+  font-size: 45px;
+  font-style: italic;
+}
+
+h4 {
+   font-size: 25px
+}
+
+a {
+  size: 25px
+}
